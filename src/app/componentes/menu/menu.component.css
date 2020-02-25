@@ -1,0 +1,17 @@
+.active{
+    border: 2px solid #3ba;
+}
+
+#contenedor ul{
+    width: 100%;
+}
+
+#contenedor ul li{
+    float: left;
+    list-style: none;
+    width: 25%;
+}
+
+#contenedor a {
+    text-decoration: none;
+}
